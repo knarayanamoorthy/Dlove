@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- <!DOCTYPE html>
+<html lang="en"> 
 <head>
 <meta charset="UTF-8">
 <title>Love Proposal 💘</title>
@@ -183,4 +183,4 @@ function acceptLove() {
 </script>
 
 </body>
-</html>
+</html> -->
